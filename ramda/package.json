@@ -1,0 +1,17 @@
+{
+  "name": "functional_programming_custom",
+  "version": "1.0.0",
+  "description": "\"Belajar nodejs\"",
+  "main": "app.js",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "ramda": "^0.27.1",
+    "underscore": "^1.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hdinjos",
+  "license": "MIT"
+}
